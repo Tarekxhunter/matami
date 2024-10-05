@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4; /* لون خلفية هادئ */
+    color: #333; /* لون النص */
+    margin: 0; /* إزالة الهوامش */
+    padding: 0; /* إزالة الحشوات */
+}
+
+header {
+    background-color: #4CAF50; /* لون خلفية الرأس */
+    color: white; /* لون النص */
+    padding: 10px 0; /* حشوة الرأس */
+    text-align: center; /* محاذاة النص في المنتصف */
+}
+
+main {
+    padding: 20px; /* حشوة المحتوى */
+}
+
+#restaurants {
+    margin-top: 20px; /* مسافة فوق قائمة المطاعم */
+}
